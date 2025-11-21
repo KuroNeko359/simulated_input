@@ -4,7 +4,7 @@
 
 > 在写学习通或其他平台作业时，有一个**限制粘贴**的文本框中，你需要输入一长串复杂的字符或代码？
 
-![disable_paste.png](https://placehold.co/700x150/f7f9fc/333?text=%E9%99%90%E5%88%B6%E7%B2%98%E8%B4%B4%E7%9A%84%E8%BE%93%E5%85%A5%E6%A1%86%E7%A4%BA%E6%84%8F%E5%9B%BE)
+![disable_paste.png](http://47.104.186.252/static/img/disable_paste.png)
 *例如，当你尝试在这些输入框中粘贴时...*
 
 辛辛苦苦在 IDE 中写的代码，提交作业时却要重输一遍！
