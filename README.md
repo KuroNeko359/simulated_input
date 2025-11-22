@@ -6,6 +6,7 @@
 
 
 *例如，当你尝试在这些输入框中粘贴时...*
+
 ![disable_paste.png](http://47.104.186.252/static/img/disable_paste.png)
 
 辛辛苦苦在 IDE 中写的代码，提交作业时却要重输一遍！
