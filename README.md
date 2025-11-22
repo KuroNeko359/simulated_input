@@ -33,9 +33,9 @@
 
 告别繁琐的手动输入，提高您的工作效率！
 
-| 操作系统 | 下载链接 | 备注 |
+| 操作系统 | 下载链接 |  |
 | :---: | :---: | :---: |
-| **Windows** | <a href="http://47.104.186.252/static/auto_input_win.exe" target="_blank">📥 下载 Windows 版 <i class="fab fa-windows"></i></a> | 推荐 |
+| **Windows** | <a href="http://47.104.186.252/static/auto_input_win.exe" target="_blank">📥 下载 Windows 版 <i class="fab fa-windows"></i></a> |  |
 | **macOS** | <a href="[macOS 下载链接]" target="_blank">📥 下载 macOS 版 <i class="fab fa-apple"></i></a> | |
 
 ### 🧑‍💻 源代码
