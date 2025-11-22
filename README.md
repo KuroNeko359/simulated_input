@@ -41,7 +41,7 @@
 ### 🧑‍💻 源代码
 
 <p align="center">
-  <a href="[项目开源地址]" target="_blank">
+  <a href="https://github.com/KuroNeko359/simulated_input" target="_blank">
     <i class="fab fa-github"></i> 查看项目 GitHub/Gitee 源代码
   </a>
 </p>
